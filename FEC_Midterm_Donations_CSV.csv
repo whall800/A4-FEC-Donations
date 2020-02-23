@@ -1,4 +1,4 @@
-ID,Name,Incumbent/Challenger,Party Code,Affiliation,Total Receipts,Transfers From,Total Disburs,Transfers to,Beginning Cash,Ending Cash,From Candidate,Loans from Candidate,Other Loans,Candidate Loan Repayment,Other Loan Repayment,Debts owed by,Individual Contributions,State,District,,,,,,,,,,
+ID,Name,Incumbent_Challenger,Party_Code,Affiliation,Total_Receipts,Transfers_From,Total_Disbursments,Transfers_to,Beginning_Cash,Ending_Cash,From_Candidate,Loans_from_Candidate,Other_Loans,Candidate_Loan_Repayment,Other_Loan_Repayment,Debts_owed_by,Individual_Contributions,State,District,,,,,,,,,,
 H8AK00132,"SHEIN, DIMITRI",C,1,DEM,209916.04,0,209574.16,0,0,367.52,43004.59,101440.14,7229.6,101072.62,7229.6,367.52,58188.98,AK,0,,,,,,0,0,12/31/2018,0,0
 H6AK00045,"YOUNG, DONALD E",I,2,REP,1234680.31,0,1387687.05,0,269726.86,116720.12,0,0,0,0,0,0,670374.33,AK,0,,,,,,559861.9,0,12/31/2018,2700,500
 H8AK01031,"NELSON, THOMAS JOHN",C,2,REP,9288.48,0,8821.97,0,0,466.51,1888.27,0,0,0,0,0,7100.05,AK,0,,,,,,0,0,12/31/2018,600,0
